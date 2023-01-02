@@ -6,3 +6,12 @@ body
   color: black;
 
 }
+
+container 
+{ 
+  background-color: greenyellow;
+  font-family: fantasy;
+  text-align: center;
+  color: blueviolet;
+
+}
