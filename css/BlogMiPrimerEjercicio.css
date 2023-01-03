@@ -1,13 +1,13 @@
 body {
   text-align: center;
-  font-family: "Courier New", Courier, monospace;
-  background-color: aquamarine;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(62, 232, 133);
   color: black;
 }
 
 #container {
   background-color: rgb(39, 34, 34);
-  font-family: "Courier New", Courier, monospace;
+  font-family: Arial, Helvetica, sans-serif;
   text-align: center;
   color: rgb(255, 222, 34);
   width: 70%;
