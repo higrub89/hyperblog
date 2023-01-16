@@ -17,12 +17,12 @@ body {
 }
 
 #footer {
-  background-color: rgb(7, 7, 7);
-  color: cornsilk;
+  background-color: rgb(241, 255, 47);
+  color: rgb(0, 0, 0);
   padding: 0.5;
   border: 1px solid;
 }
 
 #logo {
-  width: 40px;
+  width: 100px;
 }
