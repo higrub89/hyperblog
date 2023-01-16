@@ -15,3 +15,8 @@ body {
   border: 1px solid #000;
   margin: 0 auto;
 }
+
+#logo {
+  width: 80px;
+  vertical-align: middle;
+}
