@@ -9,4 +9,4 @@
 Estoy Muy Emocionado Por El Progreso Que Llevo En Mi Carrera
 Como Desarrollador Frontend. \*\*
 
-# Siempre Gracias a mi Dios y muchas gracias platzi por los buenos cursos. :tw-1f64f: :tw-1f680:
+# Siempre Gracias a mi Dios y muchas gracias platzi por los buenos cursos.
