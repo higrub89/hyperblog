@@ -6,6 +6,7 @@
 -Entornos De Trabajo Con Github.
 -Creacion De Repositorios.
 -Manipulacion de ramas
+-codigos y tags en ubuntu y gitbash
 
 Estoy Muy Emocionado Por El Progreso Que Llevo En Mi Carrera
 Como Desarrollador Frontend. \*\*
