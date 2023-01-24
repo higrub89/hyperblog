@@ -7,6 +7,7 @@
 -Creacion De Repositorios.
 -Manipulacion de ramas
 -codigos y tags en ubuntu y gitbash
+-instalacion y configuracion de jenskins
 
 Estoy Muy Emocionado Por El Progreso Que Llevo En Mi Carrera
 Como Desarrollador Frontend. \*\*
