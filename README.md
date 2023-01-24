@@ -5,6 +5,7 @@
 -He Aprendido Sobre Los Comandos Utilizados En Git.
 -Entornos De Trabajo Con Github.
 -Creacion De Repositorios.
+-Manipulacion de ramas
 
 Estoy Muy Emocionado Por El Progreso Que Llevo En Mi Carrera
 Como Desarrollador Frontend. \*\*
